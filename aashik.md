@@ -1,4 +1,3 @@
 aashik
 mohammed
 idayathulla 
-thasin
