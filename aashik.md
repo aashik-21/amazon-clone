@@ -1,3 +1,0 @@
-aashik
-mohammed
-idayathulla 
