@@ -176,9 +176,11 @@ span {
     height: 400px;
     width: 23% ;
     background-color:skyblue;
+    padding: 20px 0px 15px;
+
 }
 
 .box-img{
-    height: 100px;
+    height: 300px;
 
 }
