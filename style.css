@@ -177,7 +177,7 @@ span {
     height: 400px;
     width: 23% ;
     background-color:skyblue; 
-       padding: 20px 0px 15px;
+       padding: 20px 0px 15px; 
        margin: top 5px;
 
 }
@@ -199,5 +199,26 @@ span {
    color: #007185; 
 }
 
+/**footer**/
+footer{
+    margin-top: 15px;
+}
+.foot-panel1{
+  background-color:#37475a ;  
+  color:white;
+  height: 50px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size:0.85rem ;
+}
+   .foot-panl2{
+   background-color:#222f3d ; 
+   color:white;
+   height: 300px;
+   display: flex;
+   }
 
-   
+   ul a{
+    display:block;
+   }
